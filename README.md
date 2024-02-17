@@ -5,8 +5,8 @@ https://www.youtube.com/watch?v=JIswvyxmw3k&t=0s
 
 ## Setup
 1. Download Metamask Extension from chrome
-2. Set your wallet to Rinkeby test network
-3. Get ETH from Sepoila Faucet
+2. Set your wallet to Sepolia test network
+3. Get ETH from Sepolia Faucet
 
 ## How to Run System
 ```
